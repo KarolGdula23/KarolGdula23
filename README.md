@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarolGdula23
 - 👀 I’m interested in IT, specifically programming
-- 🌱 I’m currently learning C# ,Java/Spring
+- 🌱 I’m currently learning Java
 - 📫 How to reach me karolgdula2@gmail.com
 
 <!---
